@@ -22,6 +22,7 @@ const perks = [
 ]
 
 export default function Home() {
+
   return (
     <>
       <MaxWidthWrapper>
